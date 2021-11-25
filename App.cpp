@@ -12,7 +12,7 @@ int main()
 	int input = 0;
 	
 	//prompt user
-	cout << "Enter your number: \n";
+	cout << "Enter your number: \n\n";
 	
 	//save user input to 'input' variable
 	cin >> input;
