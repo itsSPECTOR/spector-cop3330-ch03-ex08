@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    //initialize input
+    	//initialize input
 	int input = 0;
 	
 	//prompt user
@@ -24,5 +24,6 @@ int main()
 		cout << input << " is odd.\n";
 	}
 	
-return 0;
+	//return
+	return 0;
 }
