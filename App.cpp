@@ -12,16 +12,16 @@ int main()
 	int input = 0;
 	
 	//prompt user
-	cout << "Enter your number: \n\n";
+	cout << "Enter your number: \n";
 	
 	//save user input to 'input' variable
 	cin >> input;
 	
 	//if modulo 2 = 0, it's even. If else, it's odd
 	if (input % 2 == 0) {
-		cout << input << " is even.\n";
+		cout << input << "\n is even.\n";
 	} else {
-		cout << input << " is odd.\n";
+		cout << input << "\n is odd.\n";
 	}
 	
 	//return
